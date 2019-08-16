@@ -16,16 +16,20 @@ import UIKit
     
     let appDelegate: AppDelegate? = UIApplication.shared.delegate as? AppDelegate
     
-
+    weak var delegete: ListActions?
+    var didPickAction: (()-> Void)?
     
     
     @IBAction func pickAction(_ sender: UIButton) {
-        
+        didPickAction?()
         appDelegate?.loadBusinesses(key: searchTermTextField.text ?? "")
         print("Button Ran")
+
         
     }
     @IBAction func pickRandomAction(_ sender: UIButton) {
+        didPickAction?()
+        appDelegate?.loadBusinesses(key: "" ?? "")
         
     }
 
