@@ -1,7 +1,7 @@
 # Yelp-Roulette
 Yelp Roulette alleviates the problem of choosing where to eat, and decides for you
 
-<p style="text-align: left;"><strong>Libraries Used:</strong></p>
+<p style="text-align: left;"><strong>Tools Used:</strong></p>
 <ul>
 <li style="text-align: left;">Yelp Fusion</li>
 <li style="text-align: left;">AlamoFireImage</li>
