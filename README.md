@@ -1,5 +1,5 @@
 # Yelp-Roulette
-Yelp Roulette alleviates the problem of choosing where to eat, and decides for you
+An iOS app that alleviates the problem of choosing where to eat, and decides for you
 
 <p style="text-align: left;"><strong>Tools Used:</strong></p>
 <ul>
