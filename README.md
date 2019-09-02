@@ -6,6 +6,8 @@ An iOS app that alleviates the problem of choosing where to eat, and decides for
 <li style="text-align: left;">Yelp Fusion</li>
 <li style="text-align: left;">AlamoFireImage</li>
 <li style="text-align: left;">Moya</li>
+<li style="text-align: left;">CoreLocation</li>
+<li style="text-align: left;">MapKit</li>
 </ul>
 
     
